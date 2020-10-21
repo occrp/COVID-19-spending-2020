@@ -1,0 +1,477 @@
+2020-10-07 16:30:03,009 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/jupyterlab_server/workspaces_handler.py:98: DeprecationWarning: @json_errors is deprecated in notebook 5.2.0. Subclass APIHandler instead.
+
+2020-10-07 16:30:03,010 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/jupyterlab_server/workspaces_handler.py:121: DeprecationWarning: @json_errors is deprecated in notebook 5.2.0. Subclass APIHandler instead.
+
+2020-10-07 16:30:03,011 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/jupyterlab_server/workspaces_handler.py:144: DeprecationWarning: @json_errors is deprecated in notebook 5.2.0. Subclass APIHandler instead.
+
+2020-10-07 16:30:03,016 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/jupyterlab_server/settings_handler.py:207: DeprecationWarning: @json_errors is deprecated in notebook 5.2.0. Subclass APIHandler instead.
+
+2020-10-07 16:30:03,017 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/jupyterlab_server/settings_handler.py:236: DeprecationWarning: @json_errors is deprecated in notebook 5.2.0. Subclass APIHandler instead.
+
+2020-10-07 16:30:03,062 [7440] INFO     keyring.backend:189: [JupyterRequire] Loading KWallet
+2020-10-07 16:30:03,063 [7440] INFO     keyring.backend:189: [JupyterRequire] Loading SecretService
+2020-10-07 16:30:03,066 [7440] INFO     keyring.backend:189: [JupyterRequire] Loading Windows
+2020-10-07 16:30:03,067 [7440] INFO     keyring.backend:189: [JupyterRequire] Loading chainer
+2020-10-07 16:30:03,068 [7440] INFO     keyring.backend:189: [JupyterRequire] Loading macOS
+2020-10-07 16:30:03,154 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/libarchive/ffi.py:96: ResourceWarning: unclosed <socket.socket fd=59, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, raddr=/run/user/1000/bus>
+
+2020-10-07 16:30:03,156 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/libarchive/ffi.py:96: ResourceWarning: unclosed <socket.socket fd=60, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, raddr=/run/user/1000/bus>
+
+2020-10-07 16:30:03,159 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/libarchive/ffi.py:96: ResourceWarning: unclosed <socket.socket fd=61, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, raddr=/run/user/1000/bus>
+
+2020-10-07 16:30:03,219 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ResourceWarning: unclosed <socket.socket fd=58, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, raddr=/run/user/1000/bus>
+
+2020-10-07 16:30:03,617 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: RuntimeWarning: numpy.ndarray size changed, may indicate binary incompatibility. Expected 16 from C header, got 80 from PyObject
+
+2020-10-07 16:30:03,851 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/nltk/decorators.py:68: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:04,366 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/nltk/twitter/__init__.py:22: UserWarning: The twython library has not been installed. Some functionality from the twitter package will not be available.
+
+2020-10-07 16:30:05,356 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/multipledispatch/dispatcher.py:35: DeprecationWarning: halt_ordering is deprecated, you can safely remove this call.
+
+2020-10-07 16:30:06,649 [7440] DEBUG    pip._internal.vcs.versioncontrol:222: [JupyterRequire] Registered VCS backend: bzr
+2020-10-07 16:30:06,650 [7440] DEBUG    pip._internal.vcs.versioncontrol:222: [JupyterRequire] Registered VCS backend: git
+2020-10-07 16:30:06,651 [7440] DEBUG    pip._internal.vcs.versioncontrol:222: [JupyterRequire] Registered VCS backend: hg
+2020-10-07 16:30:06,651 [7440] DEBUG    pip._internal.vcs.versioncontrol:222: [JupyterRequire] Registered VCS backend: svn
+2020-10-07 16:30:06,951 [7440] DEBUG    lml.plugin:339: [JupyterRequire] declare 'pyexcel-io reader' plugin manager
+2020-10-07 16:30:06,951 [7440] DEBUG    lml.plugin:339: [JupyterRequire] declare 'pyexcel-io writer' plugin manager
+2020-10-07 16:30:06,952 [7440] DEBUG    lml.loader:107: [JupyterRequire] scanning for plugins...
+2020-10-07 16:30:06,988 [7440] DEBUG    lml.loader:133: [JupyterRequire] ignored pyexcel_io
+2020-10-07 16:30:06,991 [7440] DEBUG    pyexcel_io.plugins.IOPluginInfoChain:187: [JupyterRequire] add pyexcel_ods.odsr.ODSBook as 'pyexcel-io reader' plugin
+2020-10-07 16:30:06,991 [7440] DEBUG    pyexcel_io.plugins.IOManager:257: [JupyterRequire] load pyexcel_ods.odsr.ODSBook later
+2020-10-07 16:30:06,992 [7440] DEBUG    pyexcel_io.plugins.IOPluginInfoChain:187: [JupyterRequire] add pyexcel_ods.odsw.ODSWriter as 'pyexcel-io writer' plugin
+2020-10-07 16:30:06,992 [7440] DEBUG    pyexcel_io.plugins.IOManager:257: [JupyterRequire] load pyexcel_ods.odsw.ODSWriter later
+2020-10-07 16:30:06,993 [7440] DEBUG    lml.utils:56: [JupyterRequire] found pyexcel_ods
+2020-10-07 16:30:07,001 [7440] DEBUG    pyexcel_io.plugins.IOPluginInfoChain:187: [JupyterRequire] add pyexcel_io.readers.csvr.CSVBookReader as 'pyexcel-io reader' plugin
+2020-10-07 16:30:07,001 [7440] DEBUG    pyexcel_io.plugins.IOManager:257: [JupyterRequire] load pyexcel_io.readers.csvr.CSVBookReader later
+2020-10-07 16:30:07,002 [7440] DEBUG    pyexcel_io.plugins.IOPluginInfoChain:187: [JupyterRequire] add pyexcel_io.readers.tsv.TSVBookReader as 'pyexcel-io reader' plugin
+2020-10-07 16:30:07,002 [7440] DEBUG    pyexcel_io.plugins.IOManager:257: [JupyterRequire] load pyexcel_io.readers.tsv.TSVBookReader later
+2020-10-07 16:30:07,002 [7440] DEBUG    pyexcel_io.plugins.IOPluginInfoChain:187: [JupyterRequire] add pyexcel_io.readers.csvz.CSVZipBookReader as 'pyexcel-io reader' plugin
+2020-10-07 16:30:07,002 [7440] DEBUG    pyexcel_io.plugins.IOManager:257: [JupyterRequire] load pyexcel_io.readers.csvz.CSVZipBookReader later
+2020-10-07 16:30:07,002 [7440] DEBUG    pyexcel_io.plugins.IOPluginInfoChain:187: [JupyterRequire] add pyexcel_io.readers.tsvz.TSVZipBookReader as 'pyexcel-io reader' plugin
+2020-10-07 16:30:07,002 [7440] DEBUG    pyexcel_io.plugins.IOManager:257: [JupyterRequire] load pyexcel_io.readers.tsvz.TSVZipBookReader later
+2020-10-07 16:30:07,002 [7440] DEBUG    lml.utils:56: [JupyterRequire] found pyexcel_io.readers
+2020-10-07 16:30:07,002 [7440] DEBUG    pyexcel_io.plugins.IOPluginInfoChain:187: [JupyterRequire] add pyexcel_io.writers.csvw.CSVBookWriter as 'pyexcel-io writer' plugin
+2020-10-07 16:30:07,002 [7440] DEBUG    pyexcel_io.plugins.IOManager:257: [JupyterRequire] load pyexcel_io.writers.csvw.CSVBookWriter later
+2020-10-07 16:30:07,002 [7440] DEBUG    pyexcel_io.plugins.IOPluginInfoChain:187: [JupyterRequire] add pyexcel_io.writers.tsv.TSVBookWriter as 'pyexcel-io writer' plugin
+2020-10-07 16:30:07,002 [7440] DEBUG    pyexcel_io.plugins.IOManager:257: [JupyterRequire] load pyexcel_io.writers.tsv.TSVBookWriter later
+2020-10-07 16:30:07,002 [7440] DEBUG    pyexcel_io.plugins.IOPluginInfoChain:187: [JupyterRequire] add pyexcel_io.writers.csvz.CSVZipBookWriter as 'pyexcel-io writer' plugin
+2020-10-07 16:30:07,002 [7440] DEBUG    pyexcel_io.plugins.IOManager:257: [JupyterRequire] load pyexcel_io.writers.csvz.CSVZipBookWriter later
+2020-10-07 16:30:07,003 [7440] DEBUG    pyexcel_io.plugins.IOPluginInfoChain:187: [JupyterRequire] add pyexcel_io.writers.tsvz.TSVZipBookWriter as 'pyexcel-io writer' plugin
+2020-10-07 16:30:07,003 [7440] DEBUG    pyexcel_io.plugins.IOManager:257: [JupyterRequire] load pyexcel_io.writers.tsvz.TSVZipBookWriter later
+2020-10-07 16:30:07,003 [7440] DEBUG    lml.utils:56: [JupyterRequire] found pyexcel_io.writers
+2020-10-07 16:30:07,003 [7440] DEBUG    pyexcel_io.plugins.IOPluginInfoChain:187: [JupyterRequire] add pyexcel_io.database.exporters.django.DjangoBookReader as 'pyexcel-io reader' plugin
+2020-10-07 16:30:07,003 [7440] DEBUG    pyexcel_io.plugins.IOManager:257: [JupyterRequire] load pyexcel_io.database.exporters.django.DjangoBookReader later
+2020-10-07 16:30:07,003 [7440] DEBUG    pyexcel_io.plugins.IOPluginInfoChain:187: [JupyterRequire] add pyexcel_io.database.exporters.sqlalchemy.SQLBookReader as 'pyexcel-io reader' plugin
+2020-10-07 16:30:07,003 [7440] DEBUG    pyexcel_io.plugins.IOManager:257: [JupyterRequire] load pyexcel_io.database.exporters.sqlalchemy.SQLBookReader later
+2020-10-07 16:30:07,003 [7440] DEBUG    pyexcel_io.plugins.IOPluginInfoChain:187: [JupyterRequire] add pyexcel_io.database.importers.django.DjangoBookWriter as 'pyexcel-io writer' plugin
+2020-10-07 16:30:07,003 [7440] DEBUG    pyexcel_io.plugins.IOManager:257: [JupyterRequire] load pyexcel_io.database.importers.django.DjangoBookWriter later
+2020-10-07 16:30:07,003 [7440] DEBUG    pyexcel_io.plugins.IOPluginInfoChain:187: [JupyterRequire] add pyexcel_io.database.importers.sqlalchemy.SQLBookWriter as 'pyexcel-io writer' plugin
+2020-10-07 16:30:07,003 [7440] DEBUG    pyexcel_io.plugins.IOManager:257: [JupyterRequire] load pyexcel_io.database.importers.sqlalchemy.SQLBookWriter later
+2020-10-07 16:30:07,004 [7440] DEBUG    lml.utils:56: [JupyterRequire] found pyexcel_io.database
+2020-10-07 16:30:07,004 [7440] DEBUG    lml.loader:142: [JupyterRequire] scanning done
+2020-10-07 16:30:07,078 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:07,082 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:07,084 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:07,085 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:07,086 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:07,102 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:07,103 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:07,561 [7440] DEBUG    rdflib:112: [JupyterRequire] RDFLib Version: 5.0.0
+2020-10-07 16:30:08,211 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:08,214 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:08,291 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/skimage/__init__.py:80: ResourceWarning: unclosed file <_io.TextIOWrapper name='/home/zufanka/anaconda3/lib/python3.7/site-packages/pytest.py' mode='r' encoding='utf-8'>
+
+2020-10-07 16:30:14,263 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/sphinx/websupport/__init__.py:25: RemovedInSphinx20Warning: sphinx.websupport module is now provided as sphinxcontrib-websupport. sphinx.websupport will be removed at Sphinx-2.0. Please use the package instead.
+
+2020-10-07 16:30:14,662 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/spyder/widgets/ipythonconsole/client.py:57: ResourceWarning: unclosed file <_io.TextIOWrapper name='/home/zufanka/anaconda3/lib/python3.7/site-packages/spyder/utils/ipython/templates/blank.html' mode='r' encoding='UTF-8'>
+
+2020-10-07 16:30:14,664 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/spyder/widgets/ipythonconsole/client.py:58: ResourceWarning: unclosed file <_io.TextIOWrapper name='/home/zufanka/anaconda3/lib/python3.7/site-packages/spyder/utils/ipython/templates/loading.html' mode='r' encoding='UTF-8'>
+
+2020-10-07 16:30:14,666 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/spyder/widgets/ipythonconsole/client.py:59: ResourceWarning: unclosed file <_io.TextIOWrapper name='/home/zufanka/anaconda3/lib/python3.7/site-packages/spyder/utils/ipython/templates/kernel_error.html' mode='r' encoding='UTF-8'>
+
+2020-10-07 16:30:14,701 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/qtawesome/iconic_font.py:276: UserWarning: You need to have a running QApplication to use QtAwesome!
+
+2020-10-07 16:30:14,941 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:14,942 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:14,948 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:14,949 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:14,980 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:14,983 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:14,994 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:15,006 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:15,011 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:15,013 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:15,014 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:15,024 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:15,028 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:15,032 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:15,036 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:15,040 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:15,042 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:15,047 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:15,051 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:15,061 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/compat/pandas.py:49: FutureWarning: The Panel class is removed from pandas. Accessing it from the top-level namespace will also be removed in the next version
+
+2020-10-07 16:30:15,063 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,065 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,067 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,073 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,076 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,079 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,080 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,081 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,083 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,084 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,085 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,087 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,088 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,090 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,091 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,105 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,107 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,118 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,119 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,122 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,123 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,133 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,134 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,142 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,144 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,152 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,161 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,163 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,165 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,167 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,169 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,170 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,173 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,175 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,177 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,179 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,180 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,191 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,192 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,193 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,195 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,196 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,198 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,200 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,207 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,208 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,210 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,211 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,212 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,218 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,219 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,222 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,223 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,224 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,226 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,227 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,229 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,230 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,231 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,232 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,233 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,247 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:15,252 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:15,256 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:15,258 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:15,262 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,262 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,263 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,267 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,268 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,269 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,270 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,272 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,273 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,297 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,298 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,299 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,300 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,301 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,302 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,305 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,306 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,308 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,309 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,310 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,311 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,313 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,320 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,323 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,331 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,332 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,334 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,337 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,339 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,340 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,341 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,342 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,343 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,350 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:15,351 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:15,354 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:15,355 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:15,357 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,359 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,360 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,361 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,362 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,363 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,364 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,365 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,367 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,368 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,369 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,370 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,379 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:15,380 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning: `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+2020-10-07 16:30:18,167 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,168 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,169 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,170 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,172 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,173 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,193 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,194 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,195 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,196 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,198 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,199 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,201 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,203 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,206 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,215 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,217 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,218 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,220 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,222 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,224 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,225 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,227 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,228 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,230 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,241 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,256 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,257 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,259 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,260 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,264 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,265 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,266 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,267 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,268 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,271 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,274 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,280 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,282 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:18,663 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/torchvision/extension.py:11: ResourceWarning: unclosed file <_io.BufferedReader name='/home/zufanka/anaconda3/lib/python3.7/site-packages/torchvision/_C.so'>
+
+2020-10-07 16:30:20,306 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:20,307 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/importlib/_bootstrap.py:219: ImportWarning: can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+
+2020-10-07 16:30:20,312 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/pkgutil.py:107: VisibleDeprecationWarning: zmq.eventloop.minitornado is deprecated in pyzmq 14.0 and will be removed.
+    Install tornado itself to use zmq with the tornado IOLoop.
+    
+
+2020-10-09 10:29:20,813 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/IPython/core/interactiveshell.py:3020: DtypeWarning: Columns (10,11,12,19,20,24,27,28,31,33,34,40,41,43,44,46,47,48,49,50,51,52,53,54) have mixed types.Specify dtype option on import or set low_memory=False.
+
+2020-10-12 12:52:18,789 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/IPython/core/interactiveshell.py:3020: DtypeWarning: Columns (9,10,11,18,19,23,26,27,30,32,33,39,40,42,43,45,46,47,48,49,50,51,52,53) have mixed types.Specify dtype option on import or set low_memory=False.
+
+2020-10-12 12:53:24,138 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/IPython/core/interactiveshell.py:3020: DtypeWarning: Columns (9,10,11,18,19,23,26,27,30,32,33,39,40,42,43,45,46,47,48,49,50,51,52,53) have mixed types.Specify dtype option on import or set low_memory=False.
+
+2020-10-12 12:55:53,567 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/IPython/core/interactiveshell.py:3020: DtypeWarning: Columns (9,10,11,18,19,23,26,27,30,32,33,39,40,42,43,45,46,47,48,49,50,51,52,53) have mixed types.Specify dtype option on import or set low_memory=False.
+
+2020-10-12 12:56:02,869 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/IPython/core/interactiveshell.py:3020: DtypeWarning: Columns (9,10,11,18,19,23,26,27,30,32,33,39,40,42,43,45,46,47,48,49,50,51,52,53) have mixed types.Specify dtype option on import or set low_memory=False.
+
+2020-10-12 13:02:03,616 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/Documents/6.OCCRP/1.Graceland/1.data/11. to publish/covidtenders.py:282: DeprecationWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+
+2020-10-14 14:40:24,165 [7440] WARNING  py.warnings:99: [JupyterRequire] /home/zufanka/anaconda3/lib/python3.7/site-packages/IPython/core/interactiveshell.py:3020: DtypeWarning: Columns (9,10,11,18,19,23,26,27,30,32,33,39,40,42,43,45,46,47,48,49,50,51,52,53) have mixed types.Specify dtype option on import or set low_memory=False.
+
