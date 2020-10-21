@@ -1,7 +1,7 @@
 # Europen COVID-19 spending 2020
 
 OCCRP and media partners collected data on COVID-19 related spending from across Europe from February to October this year.
-The story analyzing the data can be found [here]().
+The story analyzing the data can be found [here](https://www.occrp.org/en/coronavirus/europes-covid-19-spending-spree-unmasked).
 
 We have also decided to share the raw data with the public.
 
