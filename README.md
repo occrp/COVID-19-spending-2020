@@ -24,3 +24,15 @@ We have also made an effort to categorize each tender or contract (visible in th
 This dataset contains information on the prices paid per unit for certain COVID-19 purchases. The information can also be found in the [Unit Prices Sheet](https://docs.google.com/spreadsheets/d/10VL5FpviSXctagcoQM_pr0xP4Lsmzzc3-i7mEyCE2kw/edit?usp=sharing). 
 This data comes from multiple sources. In Ukraine, for example, data came from the [Prozorro](https://prozorro.gov.ua/en/tender/search/) procurement platform. In Portugal, data was obtained from the government and filtered and categorized by our media partner [Publico](https://www.publico.pt). Czech data was filtered by [hlidacstatu.cz](https://www.hlidacstatu.cz/).
 Most of the time there is a reference to a source and an ID corresponding to the relevant tender or contract.
+
+
+## A note on working with tender data
+
+Tender data is notoriously difficult to work with. The most common caveats are:
+
+* The data is **incomplete** in many ways. Most of the countries don't publish all of their expenses. In some countries (e.g. Portugal, Spain, Czechia, Russia, UK) nearly all contracts are openly published. In others (e.g. Germany, France, the Netherlands) only the largest, so called EU-level tenders are published. The largest tenders account for only about ~1/3 of total expenditures. Even if a tender is published, some of the information is often missing. It's not unusual to see for example the price either missing, or even set to zero or one euro.
+
+* The **company names are not standardized**. Governments can fill in company names in many ways and so make it very difficult to calculate how much a particular company is making from tenders in general.
+
+
+Part of this repository is a collection of cleaning scripts called `covidtenders`. `pandas` is used for the rest.
