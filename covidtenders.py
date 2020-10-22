@@ -87,7 +87,7 @@ def clean_tender_data(alldata):
     
     # 2) remove older than 2020 tenders, not-covid related tenders, tenders without a category, duplicate and cancelled tenders
     
-    alldata = alldata[((alldata["date"]).str.startswith("2020") | (pd.to_numeric(alldata["year"]) == 2020)) &
+    alldata = alldata[(pd.to_numeric(alldata["year"]) == 2020) &
                       (alldata["product"].str.lower() != "not covid19 related") &
                      (alldata["product"].notnull()) &
                       (alldata["type"].str.lower() != "call for tender") &
