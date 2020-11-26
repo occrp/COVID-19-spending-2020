@@ -261,6 +261,7 @@ def filter_just_companies(df, missing_prices_filled_in_dataset, companies_dedupe
     only_one_tender["price_contract_EUR"] = only_one_tender["price_EUR"]
     
     df = df.append(only_one_tender)
+    df = df.reset_index()
                              
     print(f'Step 1: contracts + single win tenders from + single win lots from + unique tenders = {len(df)} winning bids')
 
@@ -305,13 +306,16 @@ def filter_just_companies(df, missing_prices_filled_in_dataset, companies_dedupe
                              
     deduped = pd.read_csv(companies_deduped).drop_duplicates()
     data = pd.merge(left=to_dedupe.drop("supplier_clean", axis=1), right=deduped, on="supplier")
+    #print(data.head())
     print(f'Step 2: manually deduplicated {len(deduped)} company names')
                              
     print(f'-----------')                         
     print(f'Returning: {len(data)} rows')
     print(f'Missing: {len(missing)} winning bids')
+                             
+    
 
-    return data                  
+    return data                
                             
                                            
 def clean_unitprices(df):
